@@ -20,7 +20,6 @@ Configurar una VPN Site-to-Site basada en enrutamiento utilizando IPSec IKEv1. S
 
 <img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/33e4a6d6-8c70-4070-903e-f996efdcc2ee" />
 
-> 📸 **SCREENSHOT:** Insertar captura de la topología completa en EVE-NG
 
 ---
 
